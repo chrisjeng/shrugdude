@@ -1,4 +1,4 @@
-How to make a hotkey-ed ShrugDude
+How to Make a Hotkey-ed ShrugDude
 ===
 
 1. Install [Sublime Text 2 or 3](http://www.sublimetext.com/). 3 is in beta, but it's more compatible with packages and plugins that can enhance your stuff (like more aggressive auto-complete). Sublime is a great text editor, particularly because of it's `Ctrl + D` multi-select/multi-edit capabilities. You’ll have to set it as your default text editor (to do so, right click any `.txt` file > `Open with...` > `Always open with Sublime Text 2/3`).
@@ -9,7 +9,7 @@ How to make a hotkey-ed ShrugDude
 3. Inside that `List.txt`, put a shrug dude on the first line. If you don't already have shrug-dude copied on your clipboard, go to any site (like [this](http://www.theatlantic.com/technology/archive/2014/05/the-best-way-to-type-__/371351/) one) and `Ctrl + C` it.
 4. Now everything is ready. To copy an entire line in Sublime, you can just hit `Ctrl + C`, **even if you didn't highlight the line**. 
 
-## Recap
+## Recap: How To Use
 Suppose you want to quickly send a shrug-dude to someone. Hit these exact keys to copy a shrug-dude to your clipboard. 
 
 1. `Ctrl + Alt + L`
