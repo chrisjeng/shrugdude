@@ -6,7 +6,7 @@ How to make a hotkey-ed ShrugDude
 
 	<img src="guide_images/properties_example.png" height="400px">
 
-3. Inside that `List.txt`, put a shrug dude on the first line. If you don't already have shrug-dude copied on your clipboard, go to any site (like [this](http://www.theatlantic.com/technology/archive/2014/05/the-best-way-to-type-__/371351/) one) and get it.
+3. Inside that `List.txt`, put a shrug dude on the first line. If you don't already have shrug-dude copied on your clipboard, go to any site (like [this](http://www.theatlantic.com/technology/archive/2014/05/the-best-way-to-type-__/371351/) one) and `Ctrl + C` it.
 4. Now everything is ready. To copy an entire line in Sublime, you can just hit `Ctrl + C`, **even if you didn't highlight the line**. 
 
 ## Recap
