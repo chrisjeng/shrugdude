@@ -15,4 +15,4 @@ Suppose you want to quickly send a shrug-dude to someone. Hit these exact keys t
 1. `Ctrl + Alt + L`
 2. `Ctrl + C`
 
-(no mouse clicking necessary, and you're ready to paste him!)
+This will pop out your `List.txt` and copy shrug-dude to the clipboard. No mouse clicking necessary, and you're ready to paste him!
