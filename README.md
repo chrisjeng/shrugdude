@@ -11,6 +11,8 @@ How to make a hotkey-ed ShrugDude
 
 ## Recap
 Suppose you want to quickly send a shrug-dude to someone. Hit these exact keys to copy a shrug-dude to your clipboard. 
+
 1. `Ctrl + Alt + L`
 2. `Ctrl + C`
+
 (no mouse clicking necessary, and you're ready to paste him!)
